@@ -2,7 +2,7 @@
 
 A next.js/react/redux focused take home project for Front-end Developers.
 
-### Instructions
+### Instructions
 
 - Solution should be responsive
 - Use the included json-server.json file to build an API using [json-server](https://github.com/typicode/json-server). Read json-server documentation to know how to query the API.
