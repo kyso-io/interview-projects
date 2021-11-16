@@ -18,4 +18,3 @@ A next.js/react/redux focused take home project for Front-end Developers.
     - views
 - the edits do not need to persist through a server restart.
 - Make sure to use redux as the store, and use actions and reducers for all the data edits.
-- Make sure to allow editing of the reports within the list.
